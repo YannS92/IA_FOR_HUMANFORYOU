@@ -17,6 +17,3 @@ Quels sont les facteurs responsables de l'attrition des employés de l'entrepris
 
 ## Objective
 Nous devons modéliser la probabilité d'attrition à l'aide d'algorithme . Les résultats ainsi obtenus seront utilisés par la direction pour comprendre quels changements elle devrait apporter à son lieu de travail, afin d'inciter la plupart de ses employés à rester.
-
-# Installation 
-git clone https://github.com/DraKkarW2/Projet_IA.git
